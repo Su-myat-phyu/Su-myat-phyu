@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Su-myat-phyu
 - 👀 I’m interested in web development and creaing design.
-- 🌱 I’m currently learning Software engineering
+- 🌱 I’m currently attending Software engineering diploma.
 
 - 📫 How to reach me sumyatphyu2422004@gmail.com
 
